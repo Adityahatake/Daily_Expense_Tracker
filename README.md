@@ -110,4 +110,4 @@ For issues or feature requests, please open an issue in the repository.
 
 ---
 
-**Developed with ❤️ by [Adityahatake](https://github.com/Adityahatake)**
+**Developed with ❤️ by [Aditya Daksh](https://github.com/Adityahatake)**
