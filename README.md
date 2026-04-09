@@ -4,6 +4,10 @@ A full-featured expense management application built with React, TypeScript, and
 
 ![Dashboard Preview](Images/Dashboard.png)
 
+## 🚀 Live Demo
+
+Check out the live application: [https://xpensetracker-one.vercel.app/](https://xpensetracker-one.vercel.app/)
+
 ## 🚀 Features
 
 ### Core Capabilities
